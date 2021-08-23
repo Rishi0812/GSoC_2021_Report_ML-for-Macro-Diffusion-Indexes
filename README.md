@@ -57,9 +57,9 @@ getSymbols(Symbols = symbols3,
            env = catalyst_data)
 ```           
         
-We also used some *CSV* datasets in out forecasts, But you can use datasets of your choise for building DI.
+We also used some *CSV* datasets in our forecasts, But you can use datasets of your choise for building DI.
 
-After going through some thorough Data Processing we finally use our modified SWfore function from MTS package to build Diffusion Indexes.
+After going through some thorough Data Processing we finally use our modified SWfore function from 'MTS' package to build Diffusion Indexes.
 
 ```
 ## Using SWFore to build Diffusion Indexes - Function
